@@ -2,7 +2,7 @@
 	"name": "coveragepy-jtag",
 	"displayName": "CoveragePy Jtag",
 	"description": "View python coverage variation in real time.",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "lyyyuna",
 	"repository": {
 		"url": "https://github.com/lyyyuna/coveragepy-vscode"
